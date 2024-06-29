@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Mulish:wght@200..1000&display=swap');
+
+.slick-track {
+  display: flex;
+  gap: 20px;
+}
+.visible {
+  top: 0;
+  translate: 0;
+}
+html,
+body {
+  scroll-padding: 100px;
+}
+.map > div {
+  width: 100% !important;
+  height: 100% !important;
+}
+.map > div .ymaps-2-1-79-map {
+  width: 100% !important;
+  height: 100% !important;
+}
+.map > div > .ymaps-2-1-79-map:last-child {
+  display: none;
+}
+.ymaps-2-1-79-inner-panes {
+  border-radius: 1rem;
+}
+.ymaps-2-1-79-map.ymaps-2-1-79-i-ua_js_yes.ymaps-2-1-79-map-bg {
+  border-radius: 1rem;
+}

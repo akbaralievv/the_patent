@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "1 КЛАСС",
+    "description": "химические вещества",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-1_medium_2x.webp"
+  },
+  {
+    "id": 2,
+    "name": "2 КЛАСС",
+    "description": "краски, лаки",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-2_medium_2x.webp"
+  },
+  {
+    "id": 3,
+    "name": "3 КЛАСС",
+    "description": "косметика, бытовая химия",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-3_medium_2x.webp"
+  },
+  {
+    "id": 4,
+    "name": "4 КЛАСС",
+    "description": "смазочные материалы, масла",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-4_medium_2x.webp"
+  },
+  {
+    "id": 5,
+    "name": "5 КЛАСС",
+    "description": "фармацевтические препараты",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-5_medium_2x.webp"
+  },
+  {
+    "id": 6,
+    "name": "6 КЛАСС",
+    "description": "металлические изделия",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-6_medium_2x.webp"
+  },
+  {
+    "id": 7,
+    "name": "7 КЛАСС",
+    "description": "машины и оборудование",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-7_medium_2x.webp"
+  },
+  {
+    "id": 8,
+    "name": "8 КЛАСС",
+    "description": "инструменты и утварь",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-8_medium_2x.webp"
+  },
+  {
+    "id": 9,
+    "name": "9 КЛАСС",
+    "description": "электроника и приборы",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-9_medium_2x.webp"
+  },
+  {
+    "id": 10,
+    "name": "10 КЛАСС",
+    "description": "медицинские приборы",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-10_medium_2x.webp"
+  },
+  {
+    "id": 11,
+    "name": "11 КЛАСС",
+    "description": "осветительные приборы",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-11_medium_2x.webp"
+  },
+  {
+    "id": 12,
+    "name": "12 КЛАСС",
+    "description": "транспортные средства",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-12_medium_2x.webp"
+  },
+  {
+    "id": 13,
+    "name": "13 КЛАСС",
+    "description": "огнестрельное оружие",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-13_medium_2x.webp"
+  },
+  {
+    "id": 14,
+    "name": "14 КЛАСС",
+    "description": "драгоценные металлы",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-14_medium_2x.webp"
+  },
+  {
+    "id": 15,
+    "name": "15 КЛАСС",
+    "description": "музыкальные инструменты",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-15_medium_2x.webp"
+  },
+  {
+    "id": 16,
+    "name": "16 КЛАСС",
+    "description": "канцелярские товары",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-16_medium_2x.webp"
+  },
+  {
+    "id": 17,
+    "name": "17 КЛАСС",
+    "description": "каучуки и резины",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-17_medium_2x.webp"
+  },
+  {
+    "id": 18,
+    "name": "18 КЛАСС",
+    "description": "кожаные изделия",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-18_medium_2x.webp"
+  },
+  {
+    "id": 19,
+    "name": "19 КЛАСС",
+    "description": "строительные материалы",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-19_medium_2x.webp"
+  },
+  {
+    "id": 20,
+    "name": "20 КЛАСС",
+    "description": "мебель",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-20_medium_2x.webp"
+  },
+  {
+    "id": 21,
+    "name": "21 КЛАСС",
+    "description": "посуда и кухонная утварь",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-21_medium_2x.webp"
+  },
+  {
+    "id": 22,
+    "name": "22 КЛАСС",
+    "description": "канаты и сетки",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-22_medium_2x.webp"
+  },
+  {
+    "id": 23,
+    "name": "23 КЛАСС",
+    "description": "пряжа и нитки",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-23_medium_2x.webp"
+  },
+  {
+    "id": 24,
+    "name": "24 КЛАСС",
+    "description": "текстиль и ткани",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-24_medium_2x.webp"
+  },
+  {
+    "id": 25,
+    "name": "25 КЛАСС",
+    "description": "одежда и обувь",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-25_medium_2x.webp"
+  },
+  {
+    "id": 26,
+    "name": "26 КЛАСС",
+    "description": "галантерея",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-26_medium_2x.webp"
+  },
+  {
+    "id": 27,
+    "name": "27 КЛАСС",
+    "description": "ковры и покрытия",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-27_medium_2x.webp"
+  },
+  {
+    "id": 28,
+    "name": "28 КЛАСС",
+    "description": "игры и игрушки",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-28_medium_2x.webp"
+  },
+  {
+    "id": 29,
+    "name": "29 КЛАСС",
+    "description": "мясо и рыба",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-29_medium_2x.webp"
+  },
+  {
+    "id": 30,
+    "name": "30 КЛАСС",
+    "description": "кофе и чай",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-30_medium_2x.webp"
+  },
+  {
+    "id": 31,
+    "name": "31 КЛАСС",
+    "description": "семена и злаки",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-31_medium_2x.webp"
+  },
+  {
+    "id": 32,
+    "name": "32 КЛАСС",
+    "description": "пиво и напитки",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-32_medium_2x.webp"
+  },
+  {
+    "id": 33,
+    "name": "33 КЛАСС",
+    "description": "алкогольные напитки",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-33_medium_2x.webp"
+  },
+  {
+    "id": 34,
+    "name": "34 КЛАСС",
+    "description": "табак и курительные принадлежности",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-34_medium_2x.webp"
+  },
+  {
+    "id": 35,
+    "name": "35 КЛАСС",
+    "description": "реклама и маркетинг",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-35_medium_2x.webp"
+  },
+  {
+    "id": 36,
+    "name": "36 КЛАСС",
+    "description": "финансовые услуги",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-36_medium_2x.webp"
+  },
+  {
+    "id": 37,
+    "name": "37 КЛАСС",
+    "description": "строительство и ремонт",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-37_medium_2x.webp"
+  },
+  {
+    "id": 38,
+    "name": "38 КЛАСС",
+    "description": "телекоммуникационные услуги",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-38_medium_2x.webp"
+  },
+  {
+    "id": 39,
+    "name": "39 КЛАСС",
+    "description": "транспортировка и хранение",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-39_medium_2x.webp"
+  },
+  {
+    "id": 40,
+    "name": "40 КЛАСС",
+    "description": "обработка материалов",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-40_medium_2x.webp"
+  },
+  {
+    "id": 41,
+    "name": "41 КЛАСС",
+    "description": "образование и развлечения",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-41_medium_2x.webp"
+  },
+  {
+    "id": 42,
+    "name": "42 КЛАСС",
+    "description": "научные и технологические услуги",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-42_medium_2x.webp"
+  },
+  {
+    "id": 43,
+    "name": "43 КЛАСС",
+    "description": "услуги питания",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-43_medium_2x.webp"
+  },
+  {
+    "id": 44,
+    "name": "44 КЛАСС",
+    "description": "медицинские услуги",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-44_medium_2x.webp"
+  },
+  {
+    "id": 45,
+    "name": "45 КЛАСС",
+    "description": "юридические услуги",
+    "img": "https://onlinepatent.ru/next/images/mktu-classes/class-45_medium_2x.webp"
+  }
+]
